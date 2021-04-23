@@ -58,6 +58,5 @@ int main(void) {
 			result |= memcmp(s1, s2, 64);
 			// printf("%ld:%ld:%d\n", k, m, result);
 		}
-	
 	return result;
 }
